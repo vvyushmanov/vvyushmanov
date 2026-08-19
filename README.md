@@ -2,12 +2,12 @@
 
 DevOps Engineer · Platform Engineer · Site Reliability Engineer
 
-From 2023 to 2026 I built and operated an on-premise Kubernetes platform for a
-mission-critical push-to-talk product: 44 microservices on customer hardware,
-with no managed cloud services. The work included persistent storage and CSI
-replica placement, taints and topology spread, etcd quorum sizing, node
-lifecycle, and in-place upgrades of production systems. Before that I worked
-in QA automation.
+I build and operate on-premise Kubernetes platforms. Most recently, three
+years on a mission-critical push-to-talk product: 44 microservices on customer
+hardware, with no managed cloud services. The work included persistent storage
+and CSI replica placement, taints and topology spread, etcd quorum sizing,
+node lifecycle, and in-place upgrades of production systems. Before moving to
+infrastructure I worked in QA automation.
 
 The platform code is the property of a former employer and is not published.
 The public repositories on this profile are DevOps coursework, a
