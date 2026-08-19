@@ -1,6 +1,6 @@
 # Vadim Yushmanov
 
-Platform Engineer · Site Reliability Engineer
+DevOps Engineer · Platform Engineer · Site Reliability Engineer
 
 From 2023 to 2026 I built and operated an on-premise Kubernetes platform for a
 mission-critical push-to-talk product: 44 microservices on customer hardware,
