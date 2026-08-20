@@ -14,4 +14,4 @@ The public repositories on this profile are DevOps coursework, a
 build-distribution tool, and a recent personal project.
 
 [vadim.yushmanov@gmail.com](mailto:vadim.yushmanov@gmail.com) ·
-[LinkedIn](https://www.linkedin.com/in/vadim-iushmanov-62b631148)
+[LinkedIn](https://www.linkedin.com/in/vadim-iushmanov)
